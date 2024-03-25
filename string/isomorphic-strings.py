@@ -4,7 +4,7 @@ class Solution:
             return False
         smap = {}
         tmap = {}
-        currents=t[0]
+        currents=s[0]
         currentt=t[0]
         for i in range(len(s)):
             currents=s[i]
